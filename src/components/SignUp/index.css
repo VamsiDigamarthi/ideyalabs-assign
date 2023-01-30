@@ -1,0 +1,184 @@
+.sign-main {
+  width: 70%;
+
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  justify-content: center;
+  min-height: 100vh;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.name-field {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  margin: 16px 0px;
+}
+
+.name-inner {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 70%;
+}
+
+.inner-name {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 35%;
+}
+
+.inner-name2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+  height: 40px;
+}
+
+select {
+  width: 90%;
+  height: 30px;
+  outline: none;
+  border-radius: 5px;
+  border-color: gray;
+}
+
+span {
+  color: red;
+}
+
+input {
+  width: 90%;
+  height: 30px;
+  border: 1px solid gray;
+  padding: 3px;
+  margin: 3px 0px;
+  border-radius: 5px;
+  outline: none;
+}
+
+.male-female {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 20%;
+  margin-left: 110px;
+}
+
+.male {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 10%;
+}
+
+.name-field1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  margin: 16px 0px;
+}
+
+.name-field3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 16px 0px;
+  align-items: flex-start;
+  margin-left: 40px;
+}
+
+.special-para {
+  width: 25%;
+}
+
+.check-bb {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: 30px;
+}
+
+.check-inner {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.name-field2 {
+  margin: 20px;
+  margin-left: 37px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.warning {
+  color: red;
+}
+
+.gender {
+  align-self: center;
+}
+
+.button {
+  width: 50%;
+  height: 45px;
+  align-self: center;
+  background-color: #de4e4e;
+  border-radius: 10px;
+  border: none;
+  color: #ffffff;
+  font-size: 22px;
+}
+
+.days {
+  margin-left: 10px;
+}
+
+.date-year {
+  width: 40%;
+}
+
+.names-para {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.text-area {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.text-aa {
+  margin-top: 15px;
+}
+
+.first-error {
+  border: 2px solid red;
+}
+
+.mar {
+  margin-top: 30px;
+}
